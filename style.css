@@ -1,0 +1,42 @@
+.footer{
+    position: fixed;
+    color: chocolate;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+}
+
+.column{
+    width: 33%;
+    padding: 10px;
+    display: inline;
+}
+
+body{
+    background-color: rgb(221, 224, 18);
+}
+
+h1{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h4{
+    color: red;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+}
+
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
